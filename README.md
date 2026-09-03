@@ -1,46 +1,79 @@
+<div align="center">
+
 # Victor Costa
 
 ### Developer • Building products, communities and experiments
 
-I like turning ideas into real projects — from web experiences and developer communities to performance tools and small experiments that help me learn faster.
+I turn ideas into real projects — from developer communities and polished web experiences to performance tools and technical experiments.
 
-Currently building **DevHub Community**, an ecosystem for developers focused on projects, learning, networking and events.
+Currently building **[DevHub Community](https://www.devhubcommunity.com.br)**, an ecosystem for developers focused on projects, learning, networking and events.
 
-## Main stack
+[![Profile Views](https://komarev.com/ghpvc/?username=antoin7x&style=flat-square&label=Profile+views)](https://github.com/antoin7x)
 
-`JavaScript` · `TypeScript` · `Python` · `Java` · `C#` · `C++` · `Go` · `PHP` · `SQL` · `Kotlin`
-
-## What I work with
-
-- Frontend development with React and modern UI tooling
-- Backend development with Python and APIs
-- Full-stack project architecture
-- Performance and benchmarking experiments
-- Developer community products
-
-## Featured project
-
-### DevHub Community
-
-A developer community ecosystem with **900+ members**, built around projects, learning, networking, events and collaboration.
-
-**Current web stack:** React 19, Tailwind CSS, Framer Motion, Lenis, FastAPI and MongoDB.
-
-[Visit DevHub Community](https://www.devhubcommunity.com.br)
-
-## Selected repositories
-
-- **Dev-Hub-community-site** — current DevHub Community web platform
-- **performance-lab** — performance-focused experiments and tooling
-- **antutu-compare** — device performance comparison project
-
-## Current focus
-
-Building projects that feel polished, useful and technically solid — while improving architecture, performance and product thinking with every iteration.
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/antoin7x">GitHub</a> ·
-  <a href="https://www.devhubcommunity.com.br">DevHub Community</a>
-</p>
+## About me
+
+- Building **DevHub Community**, currently with 900+ members
+- Focused on frontend, backend, architecture and performance
+- I like products that feel polished, useful and technically solid
+- Constantly experimenting with new stacks, tooling and product ideas
+
+## Main stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,go,php,kotlin,mysql,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=9)](https://skillicons.dev)
+
+</div>
+
+## Featured work
+
+### DevHub Community
+
+Developer community ecosystem built around projects, learning, networking, events and collaboration.
+
+**Web stack:** React 19 · Tailwind CSS · Framer Motion · Lenis · FastAPI · MongoDB
+
+[Website](https://www.devhubcommunity.com.br) · [Repository](https://github.com/antoin7x/Dev-Hub-community-site)
+
+### Performance Lab
+
+A modern TypeScript playground for performance-focused interfaces, experiments and tooling, built with TanStack Start, React 19, Vite and Tailwind CSS 4.
+
+[Repository](https://github.com/antoin7x/performance-lab)
+
+### AnTuTu Compare
+
+Device-performance comparison project built with Next.js, MongoDB, TanStack Table, charts and a modern React interface.
+
+[Repository](https://github.com/antoin7x/antutu-compare)
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=antoin7x&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Victor Costa GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoin7x&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=antoin7x&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antoin7x&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+
+</div>
+
+## Current focus
+
+Building better products, improving architecture and performance, and turning DevHub into a stronger ecosystem for developers.
+
+---
+
+<div align="center">
+
+**Build. Learn. Ship. Improve.**
+
+[GitHub](https://github.com/antoin7x) · [DevHub Community](https://www.devhubcommunity.com.br)
+
+</div>
