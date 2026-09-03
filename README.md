@@ -16,10 +16,11 @@ Currently building **[DevHub Community](https://www.devhubcommunity.com.br)**, a
 
 ## About me
 
-- Building **DevHub Community**, currently with 900+ members
-- Focused on frontend, backend, architecture and performance
-- I like products that feel polished, useful and technically solid
-- Constantly experimenting with new stacks, tooling and product ideas
+I learn best by building. Most of what I study eventually turns into a real project, an experiment, or something I can improve until it feels right.
+
+A big part of that journey is **DevHub Community**. What started around a programming group grew into a community of 900+ members and an ecosystem I'm actively helping build around projects, learning, networking and events.
+
+I enjoy working across the stack, but I'm especially interested in the details people actually notice: fast interfaces, solid architecture, useful features and products that don't feel unfinished. I also spend a lot of time experimenting with performance, new tools and ideas that give me an excuse to understand how things work under the hood.
 
 ## Main stack
 
