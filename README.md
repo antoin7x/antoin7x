@@ -55,14 +55,15 @@ Device-performance comparison project built with Next.js, MongoDB, TanStack Tabl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antoin7x&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Victor Costa GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoin7x&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=antoin7x&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antoin7x&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=antoin7x&theme=transparent&hide_border=true" alt="Victor Costa GitHub contribution streak" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/antoin7x?tab=repositories"><strong>Repositories</strong></a>
+  ·
+  <a href="https://github.com/antoin7x?tab=overview&from=2026-01-01&to=2026-12-31"><strong>Contribution activity</strong></a>
+</p>
 
 ## Current focus
 
