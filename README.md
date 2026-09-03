@@ -37,7 +37,7 @@ Developer community ecosystem built around projects, learning, networking, event
 
 **Web stack:** React 19 · Tailwind CSS · Framer Motion · Lenis · FastAPI · MongoDB
 
-[Website](https://www.devhubcommunity.com.br) · [Repository](https://github.com/antoin7x/Dev-Hub-community-site)
+[Website](https://www.devhubcommunity.com.br) · [Repository](https://github.com/HenriqueJP-Tech/devhubcommunity)
 
 ### Performance Lab
 
