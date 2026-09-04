@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fala, eu sou o Victor 👋
+# Fala, eu sou o Victor 
 
 ### Dev que gosta de transformar ideia em projeto de verdade.
 
