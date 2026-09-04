@@ -22,11 +22,21 @@ A big part of that journey is **DevHub Community**. What started around a progra
 
 I enjoy working across the stack, but I'm especially interested in the details people actually notice: fast interfaces, solid architecture, useful features and products that don't feel unfinished. I also spend a lot of time experimenting with performance, new tools and ideas that give me an excuse to understand how things work under the hood.
 
-## Main stack
+## Languages
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,go,php,kotlin,mysql,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=9)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=cs,java,go,kotlin,python,ts,mysql,js,php&perline=9)](https://skillicons.dev)
+
+**C# · Java · Go · Kotlin · Python · TypeScript · SQL · JavaScript · PHP**
+
+</div>
+
+## Technologies & tools
+
+<div align="center">
+
+[![My Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=8)](https://skillicons.dev)
 
 </div>
 
