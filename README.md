@@ -1,30 +1,30 @@
 <div align="center">
 
-# Fala, eu sou o Victor 
+# Hey, I'm Victor 👋
 
-### Dev que gosta de transformar ideia em projeto de verdade.
+### Developer who likes turning ideas into real projects.
 
-Código, produto, performance e umas ideias aleatórias que acabam virando repositório.
+Code, products, performance — and random ideas that somehow end up becoming repositories.
 
-Hoje, boa parte do meu tempo vai para a **[DevHub Community](https://www.devhubcommunity.com.br)** — uma comunidade feita para devs aprenderem, mostrarem o que estão construindo, trocarem ideia e criarem conexões.
+These days, a big part of my time goes into **[DevHub Community](https://www.devhubcommunity.com.br)** — a community where developers can learn, share what they're building, meet other devs and create things together.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=antoin7x&style=flat-square&label=visitas)](https://github.com/antoin7x)
+[![Profile Views](https://komarev.com/ghpvc/?username=antoin7x&style=flat-square&label=profile+views)](https://github.com/antoin7x)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Curto aprender construindo. Em vez de ficar só na teoria, normalmente pego uma ideia, abro o editor e vejo até onde consigo levar.
+I like learning by building. Instead of staying in theory for too long, I usually grab an idea, open my editor and see how far I can take it.
 
-Foi mais ou menos assim com a **DevHub Community**: começou em volta de um grupo de programação e foi crescendo até passar de **900 membros**. Hoje continuo trabalhando para transformar isso em um ecossistema cada vez mais completo para quem programa.
+That's pretty much how **DevHub Community** grew. It started around a programming group and eventually became a community of **900+ members**. I'm still working on turning it into a bigger ecosystem for developers to learn, connect and build together.
 
-Gosto bastante de desenvolvimento web, backend, performance e arquitetura — mas principalmente de criar coisa que realmente funcione bem e seja boa de usar.
+I'm into web development, backend, performance and architecture — but more than anything, I enjoy making things that work well and actually feel good to use.
 
-> Sempre tem alguma coisa nova sendo construída por aqui.
+> There's usually something new being built around here.
 
-## 🧠 Linguagens
+## 🧠 Languages
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Gosto bastante de desenvolvimento web, backend, performance e arquitetura — ma
 
 </div>
 
-## ⚙️ Stack & ferramentas
+## ⚙️ Stack & tools
 
 <div align="center">
 
@@ -42,31 +42,31 @@ Gosto bastante de desenvolvimento web, backend, performance e arquitetura — ma
 
 </div>
 
-## 🚀 O que eu tô construindo
+## 🚀 What I'm building
 
 ### 🌐 DevHub Community
 
-Meu projeto principal atualmente. Um ecossistema para devs compartilharem projetos, aprenderem, fazerem networking, participarem de eventos e construírem juntos.
+My main project right now. An ecosystem where developers can share projects, learn, network, join events and build together.
 
 **Stack:** React 19 · Tailwind CSS · Framer Motion · Lenis · FastAPI · MongoDB
 
-[🌎 Acessar o site](https://www.devhubcommunity.com.br) · [💻 Ver repositório](https://github.com/HenriqueJP-Tech/devhubcommunity)
+[🌎 Visit website](https://www.devhubcommunity.com.br) · [💻 View repository](https://github.com/HenriqueJP-Tech/devhubcommunity)
 
 ### ⚡ Performance Lab
 
-Meu playground para testar performance, interfaces e tecnologias novas sem precisar inventar desculpa pra criar outro projeto 😅
+My playground for experimenting with performance, interfaces and new tech without needing an excuse to start another project 😅
 
 **Stack:** TypeScript · TanStack Start · React 19 · Vite · Tailwind CSS 4
 
-[💻 Ver repositório](https://github.com/antoin7x/performance-lab)
+[💻 View repository](https://github.com/antoin7x/performance-lab)
 
 ### 📱 AnTuTu Compare
 
-Projeto para comparar desempenho de dispositivos de um jeito mais organizado e visual.
+A project for comparing device performance in a cleaner and more visual way.
 
 **Stack:** Next.js · MongoDB · TanStack Table · React
 
-[💻 Ver repositório](https://github.com/antoin7x/antutu-compare)
+[💻 View repository](https://github.com/antoin7x/antutu-compare)
 
 ## 📊 GitHub
 
@@ -77,20 +77,20 @@ Projeto para comparar desempenho de dispositivos de um jeito mais organizado e v
 </div>
 
 <p align="center">
-  <a href="https://github.com/antoin7x?tab=repositories"><strong>Meus repositórios</strong></a>
+  <a href="https://github.com/antoin7x?tab=repositories"><strong>My repositories</strong></a>
   ·
-  <a href="https://github.com/antoin7x?tab=overview&from=2026-01-01&to=2026-12-31"><strong>Atividade</strong></a>
+  <a href="https://github.com/antoin7x?tab=overview&from=2026-01-01&to=2026-12-31"><strong>Activity</strong></a>
 </p>
 
-## 🎯 Agora
+## 🎯 Right now
 
-Construindo projetos melhores, estudando mais sobre arquitetura e performance e levando a DevHub cada vez mais longe.
+Building better projects, learning more about architecture and performance, and pushing DevHub further with every iteration.
 
 ---
 
 <div align="center">
 
-### Ideia boa parada no papel não vale muito. Bora construir. 🚀
+### Good ideas don't belong in a notes app forever. Build them. 🚀
 
 [GitHub](https://github.com/antoin7x) · [DevHub Community](https://www.devhubcommunity.com.br)
 
