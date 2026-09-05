@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hey, I'm Victor 👋
+# Victor Costa
 
-### Developer who likes turning ideas into real projects.
+### Developer building web products, performance experiments and DevHub Community.
 
-Code, products, performance — and random ideas that somehow end up becoming repositories.
-
-These days, a big part of my time goes into **[DevHub Community](https://www.devhubcommunity.com.br)** — a community where developers can learn, share what they're building, meet other devs and create things together.
+Currently working on **[DevHub Community](https://www.devhubcommunity.com.br)**, a developer community with **900+ members**.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=antoin7x&style=flat-square&label=profile+views)](https://github.com/antoin7x)
 
@@ -14,61 +12,53 @@ These days, a big part of my time goes into **[DevHub Community](https://www.dev
 
 ---
 
-## 👨‍💻 About me
+## About
 
-I like learning by building. Instead of staying in theory for too long, I usually grab an idea, open my editor and see how far I can take it.
+Most of what you'll find here came from something I wanted to build, test or understand better.
 
-That's pretty much how **DevHub Community** grew. It started around a programming group and eventually became a community of **900+ members**. I'm still working on turning it into a bigger ecosystem for developers to learn, connect and build together.
+My main project is **DevHub Community**, but I also work on smaller projects around performance, interfaces, benchmarks and different web technologies.
 
-I'm into web development, backend, performance and architecture — but more than anything, I enjoy making things that work well and actually feel good to use.
+I spend most of my time working with **TypeScript, JavaScript, Python and modern web stacks**, while experimenting with other languages depending on the project.
 
-> There's usually something new being built around here.
-
-## 🧠 Languages
+## Tech
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=cs,java,go,kotlin,python,ts,mysql,js,php&perline=9)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cs,go,kotlin,php,mysql&perline=9)](https://skillicons.dev)
 
-**C# · Java · Go · Kotlin · Python · TypeScript · SQL · JavaScript · PHP**
+<br/>
 
-</div>
-
-## ⚙️ Stack & tools
-
-<div align="center">
-
-[![My Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=8)](https://skillicons.dev)
 
 </div>
 
-## 🚀 What I'm building
+## Projects
 
-### 🌐 DevHub Community
+### DevHub Community
 
-My main project right now. An ecosystem where developers can share projects, learn, network, join events and build together.
+A developer community with **900+ members**, built around projects, learning, networking and collaboration.
 
-**Stack:** React 19 · Tailwind CSS · Framer Motion · Lenis · FastAPI · MongoDB
+`React 19` · `Tailwind CSS` · `Framer Motion` · `Lenis` · `FastAPI` · `MongoDB`
 
-[🌎 Visit website](https://www.devhubcommunity.com.br) · [💻 View repository](https://github.com/HenriqueJP-Tech/devhubcommunity)
+[Website](https://www.devhubcommunity.com.br) · [Repository](https://github.com/HenriqueJP-Tech/devhubcommunity)
 
-### ⚡ Performance Lab
+### Performance Lab
 
-My playground for experimenting with performance, interfaces and new tech without needing an excuse to start another project 😅
+A place where I experiment with frontend performance, UI ideas and technologies I want to understand beyond a basic demo.
 
-**Stack:** TypeScript · TanStack Start · React 19 · Vite · Tailwind CSS 4
+`TypeScript` · `TanStack Start` · `React 19` · `Vite` · `Tailwind CSS 4`
 
-[💻 View repository](https://github.com/antoin7x/performance-lab)
+[Repository](https://github.com/antoin7x/performance-lab)
 
-### 📱 AnTuTu Compare
+### AnTuTu Compare
 
-A project for comparing device performance in a cleaner and more visual way.
+A device-performance comparison project focused on making benchmark data easier to browse and compare.
 
-**Stack:** Next.js · MongoDB · TanStack Table · React
+`Next.js` · `React` · `MongoDB` · `TanStack Table`
 
-[💻 View repository](https://github.com/antoin7x/antutu-compare)
+[Repository](https://github.com/antoin7x/antutu-compare)
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -77,21 +67,7 @@ A project for comparing device performance in a cleaner and more visual way.
 </div>
 
 <p align="center">
-  <a href="https://github.com/antoin7x?tab=repositories"><strong>My repositories</strong></a>
+  <a href="https://github.com/antoin7x?tab=repositories"><strong>Repositories</strong></a>
   ·
   <a href="https://github.com/antoin7x?tab=overview&from=2026-01-01&to=2026-12-31"><strong>Activity</strong></a>
 </p>
-
-## 🎯 Right now
-
-Building better projects, learning more about architecture and performance, and pushing DevHub further with every iteration.
-
----
-
-<div align="center">
-
-### Good ideas don't belong in a notes app forever. Build them. 🚀
-
-[GitHub](https://github.com/antoin7x) · [DevHub Community](https://www.devhubcommunity.com.br)
-
-</div>
